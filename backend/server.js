@@ -13,7 +13,7 @@ connectDB();
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// Middleware
+// Middlewares 
 app.use(
   cors({
     origin: ["http://localhost:5173", "https://know-my-rights.netlify.app"],
