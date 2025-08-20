@@ -29,9 +29,5 @@ It empowers users with personalized, plain-language legal insights, covering the
 
 ---
 
-## 📜 License  
-This project is licensed under the MIT License.  
-
----
-
 #️⃣ **Hashtag:** #know_my_rights
+
