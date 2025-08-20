@@ -1,4 +1,4 @@
-# Root-level node_modules (if accidentally created)
+# Root-level node_modules 
 node_modules/
 
 # Logs
